@@ -1,0 +1,48 @@
+{
+  "expo": {
+    "name": "Que-Sabroso",
+    "slug": "Que-Sabroso",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": false
+    },
+    "android": {
+      "permissions": [
+        "CAMERA_ROLL",
+        "READ_EXTERNAL_STORAGE",
+        "WRITE_EXTERNAL_STORAGE",
+        "LOCATION",
+        "ACCESS_COARSE_LOCATION",
+        "ACCESS_FINE_LOCATION"
+      ],
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.enk19.QueSabroso",
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyCewlF94kNR8ihfxjujLgcx-mKefO8kPoA"
+        }
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "Proyecto Realizado para la asignatura Desarrollo de Software para Móviles",
+    "githubUrl": "https://github.com/enieves19/Que-Sabroso"
+  }
+}
