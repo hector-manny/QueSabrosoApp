@@ -1,5 +1,7 @@
-
+<p aling="center">
 <img src="https://github.com/hector-manny/QueSabrosoApp/blob/master/assets/img/Logo-Definitivo.png?raw=true"/>
+</p>
+
 # QueSabrosoApp 
 
 
