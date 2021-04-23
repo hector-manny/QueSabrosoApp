@@ -9,8 +9,16 @@ hacia los productos que consumen y que tanto les gusta el servicio del restauran
 
 Ademas ayudarle al consumidor a que sepan las referencias de ese restaurante para posiciónar un mejor lugar para el consumidor respecto a las referencias que otros visitantes han realizado.
 
-## *Herramientas Utilizadas*🧰
+## *Herramientas Utilizadas* 🛠️
 
+* JavaScript
+* Node JS
+* Firebase
+* React Native
+* Android Studio
+* Expo.io
+* Yarn
+* Visual Studio Code
 
 
 ## *Manual de Usuario* 📖
