@@ -18,11 +18,13 @@ Ademas ayudarle al consumidor a que sepan las referencias de ese restaurante par
 
 * Tambien inicializamos nuestro proyecto con el siguente comando: 
  
- ``` expo init AwesomeProject```
+ ``` expo init QueSabrosoApp```
  
  * Y corremos nuestro proyecto con el siguiente comando:
  
- ```cd AwesomeProject yarn start # you can also use: expo start ```
+ ```cd QueSabrosoApp yarn start # you can also use: expo start ```
+
+
 
 ## *Manual Tecnico* 📖👨‍💻👩‍💻
 
