@@ -36,6 +36,7 @@ Ademas ayudarle al consumidor a que sepan las referencias de ese restaurante par
  * Para editar los archivos se debe de tener instalado un editor de texto ya sea <a href="https://code.visualstudio.com/">Visual Studio Code</a>,                                   <a href="https://www.sublimetext.com/">Sublime Text</a> entre otro cualquier editor de texto.
  * Tambien necesitaremos una cuenta de Gmail para utilizar los servicios de <a href="https://firebase.google.com/">Firebase</a> y poder utilizar la base de datos y la autenticación.
 
+## *Mockups de la app* 🎨🖼️
 
 ## *Manual Tecnico* 📖👨‍💻👩‍💻
 
