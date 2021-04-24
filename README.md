@@ -38,6 +38,8 @@ Ademas ayudarle al consumidor a que sepan las referencias de ese restaurante par
 
 ## *Mockups de la app* 🎨🖼️
 
+* Los mockups de la aplicación se encuentran en el siguiente link de figma: https://www.figma.com/proto/XmY7QPVKxLftRjtkOxmLNr/QueSabrosoApp?node-id=3%3A8&scaling=scale-down&page-id=0%3A1
+
 ## *Manual Tecnico* 📖👨‍💻👩‍💻
 
 
