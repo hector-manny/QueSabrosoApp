@@ -16,6 +16,14 @@ Ademas ayudarle al consumidor a que sepan las referencias de ese restaurante par
 
 ```yarn global add expo-cli```
 
+* Tambien inicializamos nuestro proyecto con el siguente comando: 
+ 
+ ``` expo init AwesomeProject```
+ 
+ * Y corremos nuestro proyecto con el siguiente comando:
+ 
+ ```cd AwesomeProject yarn start # you can also use: expo start ```
+
 ## *Manual Tecnico* 📖👨‍💻👩‍💻
 
 
