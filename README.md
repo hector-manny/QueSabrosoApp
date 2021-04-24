@@ -15,15 +15,20 @@ Ademas ayudarle al consumidor a que sepan las referencias de ese restaurante par
 * Luego con <a href="https://yarnpkg.com/">Yarn</a> iniciamos el proyecto de <a herf="https://reactnative.dev/">React Native</a> en la terminal con la ruta que quieres que tu proyecto se establesca con el siguiente comando:
 
 ```yarn global add expo-cli```
-
-* Tambien inicializamos nuestro proyecto con el siguente comando: 
  
- ``` expo init QueSabrosoApp```
+ * Descaramos el Zip con el repositorio ó clonamos el repositorio con el siguiente comando en la consola de gitbash:
  
- * Y corremos nuestro proyecto con el siguiente comando:
+ ```
+ git clone https://github.com/hector-manny/QueSabrosoApp.git
+ ```
+ 
+ * Corremos nuestro proyecto con el siguiente comando:
  
  ```cd QueSabrosoApp yarn start # you can also use: expo start ```
-
+ 
+ * Para visualizar la app debemos tener una cuenta en <a href="https://expo.io/">Expo.io</a> tambien debemos descargarla en nuestro dispositivo para correr la aplicación.
+ * Para editar los archivos se debe de tener instalado un editor de texto ya sea <a href="https://code.visualstudio.com/">Visual Studio Code</a>,                                   <a href="https://www.sublimetext.com/">Sublime Text</a> entre otro cualquier editor de texto.
+ * Tambien necesitaremos una cuenta de Gmail para utilizar los servicios de <a href="https://firebase.google.com/">Firebase</a> y poder utilizar la base de datos y la autenticación.
 
 
 ## *Manual Tecnico* 📖👨‍💻👩‍💻
