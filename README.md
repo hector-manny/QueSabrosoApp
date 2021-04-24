@@ -11,6 +11,12 @@ Ademas ayudarle al consumidor a que sepan las referencias de ese restaurante par
 
 ## *Como Contribuir* 🚀🔧
 
+* Para contribuir se tiene que tener el proyecto en tu maquina local
+* Luego realizas la contribución que deseas realizar 
+* Luego haces un gitcommit en la rama contribuciones
+* De igual Forma tienes que hacer un Issues en el repositorio comentando los cambios que has realizado
+
+## *Correr el proyecto en modo desarrollador* 👨‍💻
 * Primero que nada tener instalado el motor de JavaScript en este caso utilizamos <a href="https://nodejs.org/en/">Node JS </a> ya que ese fue el lenguaje principal para el desarrollo de esta app.
 * Luego con <a href="https://yarnpkg.com/">Yarn</a> iniciamos el proyecto de <a herf="https://reactnative.dev/">React Native</a> en la terminal con la ruta que quieres que tu proyecto se establesca con el siguiente comando:
 
