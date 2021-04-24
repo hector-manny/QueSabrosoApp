@@ -11,7 +11,7 @@ Ademas ayudarle al consumidor a que sepan las referencias de ese restaurante par
 
 ## *Como Contribuir* 🚀🔧
 
-## *Manual Tecnico* 📖
+## *Manual Tecnico* 📖👨‍💻👩‍💻
 
 
 ## *Herramientas Utilizadas* 🛠️
@@ -26,7 +26,7 @@ Ademas ayudarle al consumidor a que sepan las referencias de ese restaurante par
 * Visual Studio Code
 
 
-## *Manual de Usuario* 📖
+## *Manual de Usuario* 📖 🧑
 
 El manual de usuario se encuentra en el siguiente enlace:  https://drive.google.com/drive/folders/1LvKHuAUBNnuy9O1tl7dVFXMXu1Ku0dln
 
