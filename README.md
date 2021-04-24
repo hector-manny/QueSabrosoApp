@@ -11,6 +11,11 @@ Ademas ayudarle al consumidor a que sepan las referencias de ese restaurante par
 
 ## *Como Contribuir* 🚀🔧
 
+* Primero que nada tener instalado el motor de JavaScript en este caso utilizamos <a href="https://nodejs.org/en/">Node JS </a> ya que ese fue el lenguaje principal para el desarrollo de esta app.
+* Luego con <a href="https://yarnpkg.com/">Yarn</a> iniciamos el proyecto de <a herf="https://reactnative.dev/">React Native</a> en la terminal con la ruta que quieres que tu proyecto se establesca con el siguiente comando:
+
+```yarn global add expo-cli```
+
 ## *Manual Tecnico* 📖👨‍💻👩‍💻
 
 
