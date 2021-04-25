@@ -51,6 +51,7 @@ Ademas ayudarle al consumidor a que sepan las referencias de ese restaurante par
 
 ## *Manual Tecnico* 📖👨‍💻👩‍💻
 
+* El manual tecnico se encuentra en el siguiente link: https://drive.google.com/file/d/1VD78muR38z3COhRIQbiLHIfYZDUPdCjx/view
 
 ## *Herramientas Utilizadas* 🛠️
 
