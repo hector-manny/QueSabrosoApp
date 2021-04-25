@@ -9,6 +9,15 @@ hacia los productos que consumen y que tanto les gusta el servicio del restauran
 
 Ademas ayudarle al consumidor a que sepan las referencias de ese restaurante para posiciónar un mejor lugar para el consumidor respecto a las referencias que otros visitantes han realizado.
 
+## *Autores* 👨‍💻 👨‍💻 👨‍💻
+
+* Hector Daniel Mejia Martinez <a href="https://github.com/hector-manny">GitHub</a>
+* Edgar Amilcar Nieves Kamada  <a href="https://github.com/enk19">GitHub</a>
+* Alex Roberto Mata Cerritos  <a href="https://github.com/AlexMta7">GitHub</a>
+* Manuel Alejandro Hurtado Pineda <a href="https://github.com/Manu2411">GitHub</a>
+* Salvador Armando Peres Pinto <a href="https://github.com/SalvadorPerz">GitHub</a>
+
+
 ## *Como Contribuir* 🚀🔧
 
 * Para contribuir se tiene que tener el proyecto en tu maquina local
